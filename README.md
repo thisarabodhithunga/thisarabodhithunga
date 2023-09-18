@@ -1,3 +1,5 @@
+![github](https://github.com/thisarabodhithunga/thisarabodhithunga/assets/127009808/dda0ddaf-30f0-4be9-bdc2-3dd715065d3f)
+
 <h1 align="center">Hi 👋, I'm Thisara Dilshan</h1>
 <h3 align="center">A passionate Web developer from Srilanka</h3>
 
