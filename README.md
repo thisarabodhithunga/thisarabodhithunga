@@ -1,6 +1,4 @@
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://raw.githubusercontent.com/thisarabodhithunga/thisarabodhithunga/main/assets/github-logo.png" alt="GitHub">
-</div>
+![github](https://github.com/thisarabodhithunga/thisarabodhithunga/assets/127009808/2caa23b5-4a43-4c0c-a1b3-cbadde6a87b4)
 
 
 <h1 align="center">Hi 👋, I'm Thisara Dilshan</h1>
