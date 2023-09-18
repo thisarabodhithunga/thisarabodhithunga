@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development & Mobile App Development**
 
-- 🤝 Open to collaboration and learning in **- Flutter (Advanced Concepts, UI/UX, State Management) - Angular (Components, Routing, Performance) - Node.js (Server-side, RESTful APIs, Real-time Apps)**
+- 🤝 Open to collaboration and learning in  Flutter (Advanced Concepts, UI/UX, State Management) 
 
 - 📫 How to reach me **thisarabodhithunga@gmail.com**
 
