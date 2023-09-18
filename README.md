@@ -1,4 +1,5 @@
-![github](https://github.com/thisarabodhithunga/thisarabodhithunga/assets/127009808/2caa23b5-4a43-4c0c-a1b3-cbadde6a87b4)
+![github 1020](https://github.com/thisarabodhithunga/thisarabodhithunga/assets/127009808/be75ea5c-7d25-45a1-96ee-e1515fe80408)
+
 
 
 <h1 align="center">Hi 👋, I'm Thisara Dilshan</h1>
