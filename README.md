@@ -1,5 +1,5 @@
 ![github 1020](https://github.com/thisarabodhithunga/thisarabodhithunga/assets/127009808/be75ea5c-7d25-45a1-96ee-e1515fe80408)
-<h1 align="center">Hi 👋, I'm Thisara Dilshan</h1>
+<h1 align="center">Hi 👋, I'm Thisara Bodhithunga</h1>
 <h3 align="center">A passionate Web developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisarabodhithunga&label=Profile%20views&color=0e75b6&style=flat" alt="thisarabodhithunga" /> </p>
